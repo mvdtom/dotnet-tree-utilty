@@ -1,6 +1,12 @@
-# Задание
+# Tree Utility
 
-## Утилита tree.
+## Common info
+One of my hobby is to help my friends to learn programming.
+This repo is the task for them for mastering their language skills.
+In [PRs](https://github.com/mvdtom/dotnet-tree-utilty/pulls) you may find my reviews for their solutions.
+The following task and the reviews are in Russian.
+
+## Задание
 
 Выводит дерево каталогов и файлов (если указана опция -f).
 
