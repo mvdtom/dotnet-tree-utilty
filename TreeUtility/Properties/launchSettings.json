@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TreeUtility": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\Work\\CSharp_education\\GHRepos\\dotnet-tree-utility\\dotnet-tree-utilty\\testdata -f"
+    }
+  }
+}
